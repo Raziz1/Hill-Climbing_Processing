@@ -1,9 +1,10 @@
 # Hill-Climbing_Processing 🌄🚗💰⛽
 Hill-Climbing remake using Processing 
-
+<table><tr><td>
 <p> 
-    <kbd><img width = 480 height = 270 align='Right' src="https://github.com/Raziz1/Hill-Climbing_Processing/blob/main/image/hill_climb.png? raw=true" ></kbd>
+    <img width = 480 height = 270 align='Right' src="https://github.com/Raziz1/Hill-Climbing_Processing/blob/main/image/hill_climb.png? raw=true" >
 </p> 
+</td></tr></table>
 
 ## Libraries 📚
 * [Processing Core Library](https://processing.org/)
