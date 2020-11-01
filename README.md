@@ -9,6 +9,10 @@ Hill-Climbing remake using Processing
 ## Libraries 📚
 * [Processing Core Library](https://processing.org/)
 * [Box2D Physics Engine](https://box2d.org/)
+    - [Box2D PDF Resource](https://github.com/Raziz1/Hill-Climbing_Processing/blob/main/image/18-Box2D.pdf)
+    - [Box2D GITHUB Processing Examples](https://github.com/shiffman/Box2D-for-Processing/tree/master/Box2D-for-Processing/dist/box2d_processing/examples)
+    - [The Coding Train Box2D](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy4FyZtCHsZc_K0BrXzxfE)
+    - [The Coding Train "Simulating Natural Systems with Processing](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&flow=grid&shelf_id=9)
 * [Minim Audio Library](http://code.compartmental.net/tools/minim/)
 
 ## Overview 
