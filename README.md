@@ -2,7 +2,7 @@
 Hill-Climbing remake using Processing 
 
 <p> 
-    <img align='Left' src="https://github.com/Raziz1/Hill-Climbing_Processing/blob/main/image/hill_climb.png? raw=true">
+    <img width = 480 height = 270 align='Right' src="https://github.com/Raziz1/Hill-Climbing_Processing/blob/main/image/hill_climb.png? raw=true" >
 </p> 
 
 ## Libraries 📚
