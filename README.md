@@ -22,3 +22,4 @@ The following project is written in Processing which was built around JAVA. The 
 * The car is attached to the wheels using a wheel joint (Made of a revolute joint, and distance joint)
 * Was converted to an Android Project and can run on an android device (Not Included)
 * Contains an exported application file
+* Does not contain the ability to save progress when the program is exited
