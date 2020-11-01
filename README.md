@@ -28,3 +28,6 @@ The following project is written in Processing which was built around JAVA. The 
 * Was converted to an Android Project and can run on an android device (Not Included)
 * Contains an exported application file
 * Does not contain the ability to save progress when the program is exited
+* (.pde) files are to be opened in the Processing application
+* In the Processing application click on File > Export Application to export the project
+    - Make sure you have the latest version of JAVA on your computer
