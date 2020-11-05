@@ -27,7 +27,7 @@ The following project is written in Processing which was built around JAVA. The 
 * Soundtrack Credits @ [Ryan Judge](https://open.spotify.com/user/360degreesedm)
 
 ## Other Notes 📝
-* The terrain is generated using a Box2D chainshape and perlin noise. It isn't truly infinite because I didn't implement the dynamic construction of the chainshape
+* The terrain is generated using a Box2D chainshape and perlin noise. It isn't truly infinite because I didn't implement the dynamic construction of the chainshape. This resulted in not ideal performance on my machine.
 * The car is attached to the wheels using a wheel joint (Made of a revolute joint, and distance joint)
 * Was converted to an Android Project and can run on an android device (Not Included)
 * Contains an exported application file
