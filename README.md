@@ -24,7 +24,7 @@ The following project is written in Processing which was built around JAVA. The 
 * Coin system
 * Fuel System
 * Resizable Window
-* Soundtrack Credits @ [Ryan Judge](https://open.spotify.com/user/360degreesedm)
+* Soundtrack Credits @ [THREESIXTY](https://open.spotify.com/artist/3uCyergxu3WFt6R1qGe3V5)
 
 ## Other Notes 📝
 * The terrain is generated using a Box2D chainshape and perlin noise. It isn't truly infinite because I didn't implement the dynamic construction of the chainshape. This resulted in not ideal performance on my machine.
