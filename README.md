@@ -28,6 +28,12 @@ The following project is written in Processing which was built around JAVA. The 
 
 ## Other Notes 📝
 * The terrain is generated using a Box2D chainshape and perlin noise. It isn't truly infinite because I didn't implement the dynamic construction of the chainshape. This resulted in not ideal performance on my machine.
+    1. This can be done by drawing and creating a chainshape size that is only the size of the viewing window
+    2. Check the distance between the car and the position of the last element in the chainshape
+    3. If it is below a certain threshold then expand the ground array list and add a grouping of new vector points to the end. 
+    4. Use perlin offset noise to randomize their position
+    5. Expand the array containing the vertices with BOX2D coordinates
+    6. Recreate the BOX2D body and attach the fixture
 * The car is attached to the wheels using a wheel joint (Made of a revolute joint, and distance joint)
 * Was converted to an Android Project and can run on an android device (Not Included)
 * Contains an exported application file
